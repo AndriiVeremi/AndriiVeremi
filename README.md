@@ -12,17 +12,17 @@ My ultimate goal is to become a proficient software engineer and contribute to i
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AndriiVeremi&show_icons=true&include_all_commits=true)](https://github.com/AndriiVeremi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiVeremi&layout=compact)](https://github.com/AndriiVeremi/github-readme-stats)
 
-Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+## Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndriiVeremi&theme=solarized_dark)
 
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+## Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndriiVeremi&theme=solarized_dark)
 
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+## Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndriiVeremi&theme=solarized_dark)
 
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+## Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndriiVeremi&theme=solarized_dark)
 
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+## Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndriiVeremi&theme=solarized_dark)
