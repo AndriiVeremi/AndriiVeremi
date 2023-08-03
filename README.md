@@ -11,3 +11,4 @@ My ultimate goal is to become a proficient software engineer and contribute to i
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AndriiVeremi&show_icons=true&include_all_commits=true)](https://github.com/AndriiVeremi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiVeremi&layout=compact)](https://github.com/AndriiVeremi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiVeremi)](https://github.com/anuraghazra/github-readme-stats)
