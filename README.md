@@ -9,8 +9,7 @@ My ultimate goal is to become a proficient software engineer and contribute to i
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AndriiVeremi alt=AndriiVeremi /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=AndriiVeremi&show_icons=true&include_all_commits=true)](https://github.com/AndriiVeremi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiVeremi&layout=compact)](https://github.com/AndriiVeremi/github-readme-stats)
+
 
 
 
