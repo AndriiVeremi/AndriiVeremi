@@ -6,7 +6,7 @@
 
 <p align='left'>Hi, My name is Andrii.
 
-I am a highly motivated and organized individual with a strong desire to learn and grow in the IT field. Currently, I am pursuing a Master's degree in Computer Science: Software Engineering at GoIT Neoversity. I am passionate about exploring cutting-edge technologies and applying them to real-world projects to make a positive impact on the digital landscape.
+I am a highly motivated and organized individual with a strong desire to learn and grow in the IT field. Currently, I am pursuing a Master's degree in Computer Science: Software Engineering at Woolf GoIT Neoversity. I am passionate about exploring cutting-edge technologies and applying them to real-world projects to make a positive impact on the digital landscape.
 
 My ultimate goal is to become a proficient software engineer and contribute to innovative solutions that shape the future of the tech industry.</p>
 
