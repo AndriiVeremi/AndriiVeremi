@@ -13,6 +13,13 @@ I design and develop web applications, mobile products, internal business system
 - **SiteGuard** — a safe pre-production website security checker
 - **Staff Flow Systems** — custom software for small and medium-sized businesses
 
+## Project organizations
+
+I own and manage these GitHub organizations for projects that have been moved out of my personal account:
+
+- [**shkola.ge**](https://github.com/shkola-ge) — production website, CMS and lead platform for the SHKOLA education centre in Batumi
+- [**LEX Consulting**](https://github.com/lex-consulting-ua) — Astro website and digital presence for LEX Consulting
+
 Most commercial and internal product repositories are private. Public case studies and product pages are shared without exposing client data or production secrets.
 
 ## Selected public engineering work
