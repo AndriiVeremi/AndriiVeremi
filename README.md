@@ -1,24 +1,42 @@
-## Hey 👋, This is Andrii Veremii
+# Hi, I'm Andrii Veremii 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-dashuk10@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dashuk10@gmail.com)](mailto:dashuk10@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-andriiveremii-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andriiveremii/)](https://www.linkedin.com/in/andriiveremii/) 
-[![Github Badge](https://img.shields.io/badge/-AndriiVeremi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndriiVeremi/)](https://www.github.com/AndriiVeremi/)
+Founder of [Staff Flow Systems](https://staffflowsystems.pl) — a boutique software studio building practical digital products for real business operations.
 
-<p align='left'>Hi, My name is Andrii.
+I design and develop web applications, mobile products, internal business systems and automation tools — from product strategy and UX to backend, infrastructure and launch.
 
-I am a highly motivated and organized individual with a strong desire to learn and grow in the IT field. Currently, I am pursuing a Master's degree in Computer Science: Software Engineering at Woolf GoIT Neoversity. I am passionate about exploring cutting-edge technologies and applying them to real-world projects to make a positive impact on the digital landscape.
+[Website](https://staffflowsystems.pl) · [LinkedIn](https://www.linkedin.com/in/andriiveremii/) · [Email](mailto:dashuk10@gmail.com)
 
-My ultimate goal is to become a proficient software engineer and contribute to innovative solutions that shape the future of the tech industry.</p>
+## What I'm building
 
-## 🔧 Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,webpack,react,redux,nodejs,mongodb,styledcomponents,emotion,materialui)](https://skillicons.dev)
+- **VerDy** — an education management platform for private schools
+- **Velder** — a workforce and operations platform
+- **SiteGuard** — a safe pre-production website security checker
+- **Staff Flow Systems** — custom software for small and medium-sized businesses
 
-[![Tools](https://skillicons.dev/icons?i=github,git,bash,vscode,postman,androidstudio,figma,ai)](https://skillicons.dev)
+Most commercial and internal product repositories are private. Public case studies and product pages are shared without exposing client data or production secrets.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndriiVeremi&theme=buefy&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## Selected public engineering work
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=AndriiVeremi alt=AndriiVeremi /> </p>
+- [wine-project](https://github.com/AndriiVeremi/wine-project) — TypeScript application and current public project
+- [rental-of-campers](https://github.com/AndriiVeremi/rental-of-campers) — React-based camper rental application
+- [goit-pythonweb-hw-final](https://github.com/AndriiVeremi/goit-pythonweb-hw-final) — final Python web project
+- [neo-design-patterns-final](https://github.com/AndriiVeremi/neo-design-patterns-final) — TypeScript software design patterns
+- [my-microservice-project](https://github.com/AndriiVeremi/my-microservice-project) — microservice and infrastructure practice
+- [team-project-your-energy](https://github.com/AndriiVeremi/team-project-your-energy) — collaborative frontend project
 
+## Core stack
 
+**Frontend:** TypeScript, JavaScript, React, Next.js, Astro, HTML, CSS  
+**Backend & data:** Node.js, Python, Firebase, PostgreSQL, MongoDB  
+**Infrastructure:** Docker, Cloudflare, GitHub Actions, Render, Vercel  
+**Product work:** UX/UI, architecture, automation, deployment and production support
 
+## Background
 
+I have completed my Computer Science / Software Engineering studies and now focus on building and launching real-world products.
+
+My earlier coursework is preserved in a separate [Learning archive](./learning/README.md), grouped by subject instead of taking over the main profile.
+
+## Contact
+
+If you are building a web product, internal business system or automation workflow, feel free to reach out through [Staff Flow Systems](https://staffflowsystems.pl) or [LinkedIn](https://www.linkedin.com/in/andriiveremii/).
