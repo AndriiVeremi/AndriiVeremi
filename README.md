@@ -6,9 +6,10 @@ I design and develop web applications, mobile products, internal business system
 
 [Website](https://staffflowsystems.pl) · [LinkedIn](https://www.linkedin.com/in/andriiveremii/) · [Email](mailto:dashuk10@gmail.com)
 
-## What I'm building
+## Products and platforms
 
 - **VerDy** — an education management platform for private schools
+- [**SHKOLA**](https://shkola.ge) — a live multilingual education website, CMS and lead platform for an education centre in Batumi
 - **Velder** — a workforce and operations platform, alongside the public website [velder.pl](https://velder.pl) for a Polish medical gas systems company
 - **SiteGuard** — a safe pre-production website security checker
 - **Staff Flow Systems** — custom software for small and medium-sized businesses
@@ -17,11 +18,12 @@ I design and develop web applications, mobile products, internal business system
 
 I own and manage these GitHub organizations for projects that have been moved out of my personal account:
 
-- [**shkola.ge**](https://github.com/shkola-ge) — production website, CMS and lead platform for the SHKOLA education centre in Batumi
+- [**shkola-ge**](https://github.com/shkola-ge) — repositories for the live [shkola.ge](https://shkola.ge) website, CMS and lead platform
 - [**LEX Consulting**](https://github.com/lex-consulting-ua) — Astro website and digital presence for LEX Consulting
 
 ## Selected commercial websites
 
+- [**SHKOLA**](https://shkola.ge) — multilingual website and digital admissions platform for an education centre in Batumi
 - [**Velder**](https://velder.pl) — corporate website for a Polish company delivering medical gas systems for hospitals and healthcare facilities
 
 Most commercial and internal product repositories are private. Public case studies and product pages are shared without exposing client data or production secrets.
